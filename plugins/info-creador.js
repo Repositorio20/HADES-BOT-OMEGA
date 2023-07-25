@@ -2,7 +2,7 @@ let handler = async (m, { conn, usedPrefix }) => {
 var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.presentation','vnd.openxmlformats-officedocument.spreadsheetml.sheet','vnd.openxmlformats-officedocument.wordprocessingml.document']
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let text = `╭─「➻❥ *owner* ➻❥」
-│➯ ⫷᭄©DROID-8-MD﹏✍
+│➯ ⫷᭄©𝐃𝐑𝐎𝐈𝐃-8-𝐌𝐃﹏✍
 │➯Wa.me/50258487658 (CREADOR)
 │➯Wa.me/50258487658 (CREADOR) 
 │➯Wa.me/50240289706 (CREADOR)
@@ -11,7 +11,7 @@ let text = `╭─「➻❥ *owner* ➻❥」
 let buttonMessage= {
 'document': { url: `https://chat.whatsapp.com/GccVNsJEVKpBZB4ZVu0rm9` },
 'mimetype': `application/${document}`,
-'fileName': `⫷᭄DROID-8-MD﹏✍`,
+'fileName': `⫷᭄𝐃𝐑𝐎𝐈𝐃-8-𝐌𝐃﹏✍`,
 'fileLength': 99999999999999,
 'pageCount': 200,
 'contextInfo': {
