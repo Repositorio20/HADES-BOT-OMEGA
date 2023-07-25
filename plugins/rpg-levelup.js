@@ -6,7 +6,7 @@ let handler = async (m, { conn }) => {
     let user = global.db.data.users[m.sender]
     if (!canLevelUp(user.level, user.exp, global.multiplier)) {
         let { min, xp, max } = xpRange(user.level, global.multiplier)
-        throw `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」
+        throw `╭「➻❥DROID-8-MD➻❥」
 │➯─⊷ *LEVEL
 │➯Nombre : *${name}*
 │➯Nivel : *${user.level}*
