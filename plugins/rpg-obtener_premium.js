@@ -69,7 +69,7 @@ const imgpre = [
 'https://i.imgur.com/jRA9pwD.jpeg'];
 
 await conn.reply(m.chat, `╭─────°.♡.°‧─────
-│⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰﹏✍   
+│⫷᭄©DROID-8-MD﹏✍   
 │📑ɴᴏᴍʙʀᴇ»${user.name}*
 │💰ᴘᴀɢᴏ»${hades * text} ${rpgshopp.emoticon('joincount')}*
 │📜ᴛɪᴇɴᴅᴀ»${user.joincount} ${rpgshopp.emoticon('joincount')}*
