@@ -21,7 +21,7 @@ var doc = ['pdf','zip','vnd.openxmlformats-officedocument.presentationml.present
 var document = doc[Math.floor(Math.random() * doc.length)]    
 let str = `╭「➻❥DROID-8-MD➻❥」
 │➯ *𝗛ᴏʟᴀ,➟${taguser}
-│➯ *ᴏᴡɴᴇʀ:ᴏғᴄ➟ʏᴏᴠᴀɴɪ
+│➯ *ᴏᴡɴᴇʀ:ᴏғᴄ➟TONYɪ
 │➯ **Número*➟50258487658
 │➯ **Tik-tok*
 │➯ *http://tiktok.com/@coin.exe1
