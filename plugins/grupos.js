@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems }) => {
 try {
-await m.reply(`╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯(♦️)*PUEDES ENTRAR A LOS GRUPOS O VISITAR NUESTRAS PÁGINAS OFICIALES ESO NOS AYUDARÍA MUCHO*\n︎╰───────────────╯\n\n\n╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯(♦️)*YOU CAN ENTER THE GROUPS OR VISIT OUR OFFICIAL PAGES YOU WOULD HELP US A LOT WITH THAT$\n︎╰───────────────╯`)
+await m.reply(`╭「➻❥DROID-8-MD➻❥」\n│➯(♦️)*PUEDES ENTRAR A LOS GRUPOS O VISITAR NUESTRAS PÁGINAS OFICIALES ESO NOS AYUDARÍA MUCHO*\n︎╰───────────────╯\n\n\n╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯(♦️)*YOU CAN ENTER THE GROUPS OR VISIT OUR OFFICIAL PAGES YOU WOULD HELP US A LOT WITH THAT$\n︎╰───────────────╯`)
 let pp = imagen1
 let vn = './Audios/naa.mp3'
 let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
@@ -20,32 +20,26 @@ let readMore = more.repeat(850)
 let taguser = '@' + m.sender.split("@s.whatsapp.net")[0]
 let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」
 │➯𝗛ᴏʟᴀ,➟${taguser}
-│➯ᴏᴡɴᴇʀ:ᴏғᴄ➟ʏᴏᴠᴀɴɪ
-│➯*Número*➟5212412377467
-│➯*canal-YouTube*
-│➯https://youtube.com/@hades_bot2391
+│➯ᴏᴡɴᴇʀ:ᴏғᴄ➟TONY
+│➯*Número*➟50258487658
+│➯*Tik-tok*
+│➯http://tiktok.com/@coin.exe1
 │➯ғᴇᴄʜᴀ:➟${date}
 │➯ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
 │➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭「➻❥*Grupos y cuentas*➻❥」
-│➯𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰
-│➯https://chat.whatsapp.com/BgyxmpSY2VYE3MT0UbLAgf
-│➯𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰
-│➯https://chat.whatsapp.com/DpRVuXpKRF43iMOEtg85wz
-│➯𝙷𝙰𝚃𝚂𝚄𝙽𝙴-𝙼𝙸𝙺𝚄-𝚄𝙻𝚃𝚁𝙰
-│➯https://chat.whatsapp.com/BuloWd29LSnDZHXtUJDybF
-│➯𝚙á𝚐𝚒𝚗𝚊 𝚍𝚎 𝙵𝚊𝚌𝚎𝚋𝚘𝚘𝚔
-│➯https://www.facebook.com/groups/987464505464904/?ref=share
-│➯𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚈𝚘𝚞𝚃𝚞𝚋𝚎
-│➯https://youtube.com/@hades_bot2391
-│➯𝚌𝚊𝚗𝚊𝚕 𝚍𝚎 𝚍𝚒𝚜𝚌𝚘𝚛𝚍 
-│➯https://discord.gg/nQVWW6xv
-│➯INSTAGRAM
-│➯https://instagram.com/ofc.yovani.bot?igshid=ZDc4ODBmNjlmNQ==
-│➯KIKTOK
-│➯https://vm.tiktok.com/ZM2rbFWnr/
+│➯ *DROID-8-MD*
+│➯https://chat.whatsapp.com/CkA0gnGz99l6fJgTbIvUBH
+│➯ *DROID-8-MD*
+│➯https://chat.whatsapp.com/GccVNsJEVKpBZB4ZVu0rm9
+│➯ *DROID-8-MD*
+│➯https://chat.whatsapp.com/KH57dV7WnADA7ZGBYdbMnb
+│➯ *Tik-tok*
+│➯https://www.tiktok.com/@alexx_xd_7?_t=8eHKLbcPCEv&_r=1
+│➯KIK-TOK
+│➯http://tiktok.com/@coin.exe1
 ︎╰───────────────╯`.trim()
 if (m.isGroup) {
 await conn.sendFile(m.chat, vn, 'naa.mp3', null, m, true, { type: 'audioMessage', ptt: true})
