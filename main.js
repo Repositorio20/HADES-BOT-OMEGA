@@ -256,40 +256,40 @@ conn.ev.off('creds.update', conn.credsUpdate)
   
 conn.welcome = '------------------------------------------------\n
 
-╭•⋆҈͜͡.➣❂ _DROIDITO_ ❂◄⋆҈͜͡•╮
-╽Bienvenid@ al grupo
-┃  《 *TONY* 𝕺𝖋𝖈 》
-┃@user
-╿️ 🌸🌸🌸🌸🌸🌸
-├──────────⋆
-┃REGISTRATE PA USAR EL BOT
-├──────────⋆
-┃  ⚠️ PROHIBIDO ⚠️
-├──────────⋆
-┃ 🚯 PORNO/CP/GORE
-┃ 🚯 SPAM/VIRUS
-├──────────⋆
-┃ 🌸🌸🌸🌸🌸🌸
-┃Lee el descripción
-╿️Del Grupo 💫💫💫
+╭•⋆҈͜͡.➣❂ _DROIDITO_ ❂◄⋆҈͜͡•╮\n
+╽Bienvenid@ al grupo\n
+┃  《 *TONY* 𝕺𝖋𝖈 》\n
+┃@user\n
+╿️ 🌸🌸🌸🌸🌸🌸\n
+├──────────⋆\n
+┃REGISTRATE PA USAR EL BOT\n
+├──────────⋆\n
+┃  ⚠️ PROHIBIDO ⚠️\n
+├──────────⋆\n
+┃ 🚯 PORNO/CP/GORE\n
+┃ 🚯 SPAM/VIRUS\n
+├──────────⋆\n
+┃ 🌸🌸🌸🌸🌸🌸\n
+┃Lee el descripción\n
+╿️Del Grupo 💫💫💫\n
 ╰•⋆҈͜͡. *TONY*⋆ 𝕺𝖋𝖈⋆҈͜͡•╯\n
 
-🧑🏻‍💻️ *SÍGUEME EN TIKTOK* 😻
+🧑🏻‍💻️ *SÍGUEME EN TIKTOK* 😻\n
 http://tiktok.com/@coin.exe1\n
 
 \n-------------------------------------------------'
 conn.bye = '------------------------------------------------\n
-╭•⋆҈͜͡.➣❂ _DROIDITO_ ❂◄⋆҈͜͡•╮
-┃ ADIÓS 👋 
+╭•⋆҈͜͡.➣❂ _DROIDITO_ ❂◄⋆҈͜͡•╮\n
+┃ ADIÓS 👋\n
 ┃ @⁨user\n
-┃.             😎
-┃                 |,＼👐 
-┃                 / )   ＼  
-┃━━━━━┓ ＼＼ 
-┃┓┓┓┓┓┃ ヽ😩ノ 
-┃┓┓┓┓┓┃      /  *
-╿┓┓┓┓┓┃  ノ) 
-╰•⋆҈͜͡. *TONY-OFC* ⋆҈͜͡•╯ 
+┃.             😎\n
+┃                 |,＼👐\n 
+┃                 / )   ＼  \n
+┃━━━━━┓ ＼＼\n 
+┃┓┓┓┓┓┃ ヽ😩ノ \n
+┃┓┓┓┓┓┃      /  *\n
+╿┓┓┓┓┓┃  ノ) \n
+╰•⋆҈͜͡. *TONY-OFC* ⋆҈͜͡•╯\n 
 
 🧑🏻‍💻️ *SÍGUEME EN TIKTOK*\n 😻
  http://tiktok.com/@coin.exe1\n
