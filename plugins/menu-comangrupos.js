@@ -23,7 +23,7 @@ let str = `╭「➻❥DROID-8-MD➻❥」
 │➯ *𝗛ᴏʟᴀ,➟${taguser}
 │➯ *ᴏᴡɴᴇʀ:ᴏғᴄ➟TONYɪ
 │➯ *Número*➟50258487658
-│➯ *canal-tiktok*
+│➯ *tik-tok*
 │➯ *http://tiktok.com/@coin.exe1
 │➯ *ғᴇᴄʜᴀ:➟${date}
 │➯ *ᴛɪᴇᴍᴘᴏ ᴀᴄᴛɪᴠᴏ:➟${uptime}
