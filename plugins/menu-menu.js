@@ -79,11 +79,11 @@ let str = `╭「➻❥DROID-8-MD➻❥」
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭─「➻❥ *menus* ➻❥」
-│➯ *.menu2*
+│➯ *.menu2 [menu de Audios]
 │➯ *.animes*
 │➯ *.grupos*
 │➯ *.owner*
-│➯ *.labiblia*
+│➯ *.labiblia* *[menu de comandos +18]*
 │➯ *.enable*
 │➯ *.comangrupos*
 ╰───────────────╯
@@ -106,7 +106,7 @@ let str = `╭「➻❥DROID-8-MD➻❥」
 │➯ *.wikipedia <busqueda>*
 │➯ *.animeinfo <nombre>*
 │➯ *.play nombre de tu canción*
-│➯ *.play2 nombre de tu video*
+│➯ *.playvid nombre de tu video*
 │➯ *.play3 nombre de tu canción,doc*
 │➯ *.play4 nombre de tu video,doc*
 │➯ *.ytmp3 tu link  Audio*
@@ -123,11 +123,11 @@ let str = `╭「➻❥DROID-8-MD➻❥」
 │➯ *.gdrive link de drive*
 │➯ *.whatmusic responde a una audio*
 │➯ *.calculadora Ejemplo : .calc 2+2*
-│➯ *.ia chatgpt*
-│➯ *.iaimagen imagenes creadas*
+│➯ *.ia * [interactua con Chatgpt]
+│➯ *.iaimagen [imagenes creadas]*
 │➯ *.fondo nombre de tu fondo*
 │➯ *.ssweb link de tu img*
-│➯ *.tts audio google*
+│➯ *.tts* [texto] ejemplo (.tts hola)
 │➯ *.queanime resultado*
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
@@ -166,6 +166,7 @@ let str = `╭「➻❥DROID-8-MD➻❥」
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
 ╭─「➻❥*Otros Comandos*➻❥」
+│➯ *.bot [tu mensaje]*
 │➯ *.hd <imagen>*
 │➯ *.crearmeme*
 │➯ *.cuaderno*
