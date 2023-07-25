@@ -1,7 +1,7 @@
 import fetch from 'node-fetch'
 let handler = async (m, { conn, usedPrefix, usedPrefix: _p, __dirname, text, isPrems }) => {
 try {
-await m.reply(`╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯(♦️)*Hola estás en el menú+18 elige una opción y pide una imagen*\n╰───────────────╯\n\n\n╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯(♦️)*Hello you are in the menu+18 choose an option and ask for an image*\n╰───────────────╯`)
+await m.reply(`╭「➻❥DROID-8-MD➻❥」\n│➯(♦️)*Hola estás en el menú+18 elige una opción y pide una imagen*\n╰───────────────╯\n\n\n╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」\n│➯(♦️)*Hello you are in the menu+18 choose an option and ask for an image*\n╰───────────────╯`)
 let pp = imagen4
 let img = await(await fetch('https://i.imgur.com/JP52fdP.jpg')).buffer()
 let d = new Date(new Date + 3600000)
@@ -28,7 +28,7 @@ let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻
 │➯ᴜsᴜᴀʀɪᴏs:➟${rtotalreg}
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」
+╭「➻❥DROID-8-MD➻❥」
 │➯*Menu*+18*
 ︎╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
@@ -60,7 +60,7 @@ let str = `╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻
 │➯ *.pene*
 │➯ *.porno*
 │➯ *.randomxxx*
-│➯⫷᭄©𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰✍
+│➯⫷᭄©DROID-8-MD✍
 ︎╰───────────────╯`.trim()
 if (m.isGroup) {
 //await conn.sendFile(m.chat, vn, 'Darling.mp3', null, m, true, { type: 'audioMessage', ptt: true})
