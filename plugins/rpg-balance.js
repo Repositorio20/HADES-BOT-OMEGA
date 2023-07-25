@@ -13,7 +13,7 @@ m.reply(`╭「➻❥DROID-8-MD➻❥」
 │➯‣❏ *🧿Exp* ${global.db.data.users[who].exp}
 ╰───────────────╯
 🍁᭢━━━━━━━━━᭥🍁᭢
-╭「➻❥𝙷𝙰𝙳𝙴𝚂-𝙱𝙾𝚃-𝙾𝙼𝙴𝙶𝙰➻❥」
+╭「➻❥DROID-8-MD➻❥」
 │➯‣ 📝*𝙽𝙾𝚃𝙰:*
 │➯‣ *para ir al tienda y 𝚌𝚘𝚖𝚙𝚛𝚊𝚛 𝚍𝚒𝚊𝚖𝚊𝚗𝚝𝚎𝚜 💎 usa el  𝚌𝚘𝚖𝚊𝚗𝚍𝚘*
 │➯‣❏ *.shop*
